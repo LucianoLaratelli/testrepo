@@ -1,1 +1,3 @@
 this is my new file
+
+now it has two lines
