@@ -9,3 +9,10 @@ four lines
 this one should be signed
 
 test pinentry-gtk
+
+test
+
+test
+
+test
+
