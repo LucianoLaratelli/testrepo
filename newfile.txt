@@ -19,3 +19,5 @@ test
 another lines
 
 these lines are for testing if you can close a PR from magit
+
+new line
