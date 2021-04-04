@@ -7,3 +7,5 @@ three lines
 four lines
 
 this one should be signed
+
+test pinentry-gtk
